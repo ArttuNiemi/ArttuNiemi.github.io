@@ -38,8 +38,8 @@ Well, do I have [the website for you][another fun place]!
 
 [Orange cat][Orange]
 
-[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
-[Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+![Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+![Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 I read this interesting quote the other day:
 
@@ -109,13 +109,13 @@ In the early _1980s_, the idea that markup should focus on the structural aspect
 ## Exercise 3
 
 ### Youtube
-[Hmmm](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![Hmmm](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Picture
 ![A cute cat](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 ## Exercise 4
-
+```python
 public class Person
 {
   private string name;
@@ -138,6 +138,7 @@ public class Person
 
 
 
+```
 
 
 
