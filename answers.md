@@ -109,7 +109,7 @@ In the early _1980s_, the idea that markup should focus on the structural aspect
 ## Exercise 3
 
 ### Youtube
-![Hmmm](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Hmmm](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Picture
 ![A cute cat](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
